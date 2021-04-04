@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LinkedIn Profile Development : Key Points"
-date: 2014-04-30
+date: 2021-04-05
 ---
 
 LinkedIn profile development
